@@ -11,7 +11,7 @@ Next up is the [Create Performance Task][ct]. To complete the Create Performance
 * Make a short demo video for your app.
 * Complete the written responses about your app.
 
-The deadline for completing all three components and uploading them to your [Digital Portfolio][dp] is 8:59 PM on Tuesday the 26th of May.
+The deadline for completing all three components and uploading them to your [Digital Portfolio][dp] is **8:59 PM on Tuesday the 26th of May.**
 
 You can find the slides from today's Zoom session [here][slides].
 
